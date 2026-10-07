@@ -1,0 +1,5 @@
+{
+  "name": "usage-line",
+  "owner": { "name": "tusharranjan-ai" },
+  "plugins": [{ "name": "usage-line", "source": "./" }]
+}

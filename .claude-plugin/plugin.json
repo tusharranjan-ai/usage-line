@@ -1,0 +1,9 @@
+{
+  "name": "usage-line",
+  "version": "0.1.0",
+  "description": "One status line: model, context bar (🟢🟡🔴), cache hit rate, session cost, and 5h/7d limits with reset countdowns.",
+  "author": { "name": "tusharranjan-ai", "url": "https://github.com/tusharranjan-ai" },
+  "homepage": "https://github.com/tusharranjan-ai/usage-line",
+  "repository": "https://github.com/tusharranjan-ai/usage-line",
+  "license": "MIT"
+}
